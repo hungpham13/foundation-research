@@ -10,3 +10,5 @@ Pillow
 einops
 textdistance
 shapely
+opencv-python
+matplotlib
