@@ -13,3 +13,4 @@ shapely
 opencv-python
 matplotlib
 evaluate
+python-doctr[torch]
